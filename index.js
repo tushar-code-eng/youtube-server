@@ -15,7 +15,7 @@ const port = 3000
 
 app.use(cors(
   {
-    origin:["https://youtube-but-better-api.vercel.app"],
+    origin:["https://youtube-client-psi.vercel.app/"],
     methods:["POST","GET"],
     credentials:true
   }
