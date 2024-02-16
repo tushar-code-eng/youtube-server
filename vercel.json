@@ -7,7 +7,7 @@
       "dest": "/",
       "methods": ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
       "headers": {
-        "Access-Control-Allow-Origin": "https://youtube-client-jet.vercel.app/"
+        "Access-Control-Allow-Origin": "https://youtube-client-jet.vercel.app/videos.random"
       }
     }
   ]
