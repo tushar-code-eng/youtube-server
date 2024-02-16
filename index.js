@@ -15,7 +15,7 @@ const port = 3000
 
 app.use(cors(
   {
-    origin:["https://youtube-client-jet.vercel.app/"],
+    origin:["https://youtube-server-tawny.vercel.app/"],
     methods:["POST","GET"],
     credentials:true
   }

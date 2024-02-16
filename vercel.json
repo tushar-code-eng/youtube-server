@@ -7,7 +7,7 @@
       "dest": "/",
       "methods": ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
       "headers": {
-        "Access-Control-Allow-Origin": "https://youtube-server-tawny.vercel.app/videos/random"
+        "Access-Control-Allow-Origin": "*"
       }
     }
   ]
